@@ -20,15 +20,21 @@ For voice chat, type `/voice` in-game and talk from a browser, the same as every
 |---|---|
 | **K** | Turn the shaders on or off. Press this if the game runs slowly |
 | **I** | Shader settings |
+| **C** | Hold to zoom |
 
 ## What's inside
 
 - [Complementary Shaders Unbound](https://modrinth.com/shader/complementary-unbound) by EminGT, the realistic look
 - [Iris](https://modrinth.com/mod/iris), which runs the shaders
 - [Sodium](https://modrinth.com/mod/sodium), which makes the game run faster
+- [Continuity](https://modrinth.com/mod/continuity), which gives glass and bookshelves smooth connected textures
+- [Zoomify](https://modrinth.com/mod/zoomify), for zooming in (uses YetAnotherConfigLib and Fabric Language Kotlin)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights), which makes torches glow in your hand
 - [Fabric](https://fabricmc.net/), which loads the mods
 
 The pack file only lists these mods. Your launcher downloads each one from Modrinth and checks that it's the right file.
+
+OptiFine isn't included because it doesn't work with Sodium and Iris. These mods cover its main features.
 
 ## The server pack
 
