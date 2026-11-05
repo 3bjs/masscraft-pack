@@ -1,6 +1,6 @@
 # MassCraft Ultra
 
-Realistic graphics and voice chat for the MassCraft Minecraft server.
+Realistic graphics for the MassCraft Minecraft server, plus the voice chat mod.
 
 This is **optional**. MassCraft works fine without it. You need Minecraft Java Edition on a PC with a good graphics card, so it won't run on Bedrock, phones or consoles.
 
@@ -11,6 +11,8 @@ This is **optional**. MassCraft works fine without it. You need Minecraft Java E
 3. In Prism, click **Add Instance**, then **Import**, and choose the file you downloaded.
 4. Right-click the new instance, then go to **Edit**, **Settings**, **Java**. Turn on **Memory** and set the maximum to **4096 MiB**.
 5. Press **Launch**, open **Multiplayer**, and join **MassCraft**. It's already in your server list.
+
+You don't need this pack for voice chat. Anyone can type `/voice` in-game and talk from a browser, with nothing to download.
 
 ## In-game keys
 
