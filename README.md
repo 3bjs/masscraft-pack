@@ -29,6 +29,7 @@ For voice chat, type `/voice` in-game and talk from a browser, the same as every
 - [Sodium](https://modrinth.com/mod/sodium), which makes the game run faster
 - [Continuity](https://modrinth.com/mod/continuity), which gives glass and bookshelves smooth connected textures
 - [Zoomify](https://modrinth.com/mod/zoomify), for zooming in (uses YetAnotherConfigLib and Fabric Language Kotlin)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) and [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map), for waypoints (B adds one, M opens the map). MassCraft turns on their fair-play mode, so there is no entity radar or cave view
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights), which makes torches glow in your hand
 - [Fabric](https://fabricmc.net/), which loads the mods
 
